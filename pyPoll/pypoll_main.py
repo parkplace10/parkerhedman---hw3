@@ -55,4 +55,6 @@ print("Correy: " + str(correy_percent) + " (" + str(correy_votes)+")")
 print("Li: " + str(li_percent) + " (" + str(li_votes) + ")")
 print("O'Tooley: " + str(otooley_percent) + " (" + str(otooley_votes)+ ")")
 
+print("-------------------------------------")
+
 
